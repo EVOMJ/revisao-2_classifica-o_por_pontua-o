@@ -1,0 +1,12 @@
+
+numero = float(input("digite um numero"))
+
+if 0 > numero <39.9:
+    print(" IA em Treinamento 🍼")
+elif 40 < numero < 100.0:
+    print("Erro: IA fora da escala! ⚠️")
+else:
+    print("o numero esta acima de 80")
+
+
+
